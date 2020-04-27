@@ -76,5 +76,7 @@ html;
     <h1><?php echo  $h1 ?></h1>
     <p><?php echo   $date ?></p>
 
+    
+
 </body>
 </html>
