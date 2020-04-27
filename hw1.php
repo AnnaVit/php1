@@ -63,7 +63,7 @@ html;
      $a = $a[1];
      
      echo "$a, $b <hr>";
-
+//проверяю изменения
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -75,6 +75,8 @@ html;
 <body>
     <h1><?php echo  $h1 ?></h1>
     <p><?php echo   $date ?></p>
+
+    
 
 </body>
 </html>
